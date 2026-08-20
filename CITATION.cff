@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below. If you use it in academic work, please also cite the accompanying methods paper (see preferred-citation)."
+type: software
+title: "Intra-patient Heterogeneity Feature Extractor"
+abstract: >-
+  R implementation of a framework for quantifying intra-patient heterogeneity
+  from lesion-level PET uptake values (SUVmax or SUVmean), across eight
+  conceptual feature groups: central tendency, spread, distributional shape,
+  entropy/energy, statistical inequality, and distance-weighted ecological
+  diversity.
+authors:
+  - given-names: Esther
+    family-names: Smeets
+    affiliation: University Medical Center Utrecht
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # add if you have one
+version: 0.1.0   
+date-released: "2026-08-20"   
+url: "https://github.com/[YOUR-GITHUB-USERNAME]/[REPO-NAME]"
+repository-code: "https://github.com/[YOUR-GITHUB-USERNAME]/[REPO-NAME]"
+license: MIT
+keywords:
+  - PET imaging
+  - intra-patient heterogeneity
+  - radiomics
+  - SUVmax
+  - feature extraction
+  - oncology
+preferred-citation:
+  type: unpublished
+  title: "[Paper title \u2014 add once finalised]"
+  authors:
+    - given-names: Esther
+      family-names: Smeets
+      affiliation: University Medical Center Utrecht
+  year: 2026
+  notes: "Manuscript in preparation, target journal EJNMMI / Medical Physics / PLOS ONE. Update this entry to type 'article' with volume, issue, pages, and doi once accepted."
