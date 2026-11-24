@@ -1,5 +1,5 @@
 # intrapatient-heterogeneity-features
-Extract Intrapatient-heterogeneity features from PET-features of metastatic patients
+Extract intrapatient heterogeneity features from PET-features of metastatic patients
 
 R implementation of a framework for quantifying intra-patient heterogeneity from lesion-level PET uptake values (SUVmax or SUVmean). 
 Computes 22 features across eight conceptual groups: central tendency, spread, distributional shape, entropy/energy, statistical inequality, and distance-weighted ecological diversity — from any dataset of per-lesion uptake values.
